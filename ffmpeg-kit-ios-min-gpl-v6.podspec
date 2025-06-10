@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://www.idoosmart.com'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'chenyongfa' => 'cyf0113082@idoocn.com' }
-  s.source           = { :git => 'git@git.idoocn.com:ios_dev/frameworks/ffmpeg-kit-ios-min-gpl.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/idoosmart/ffmpeg-kit-ios-min-gpl-v6.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
 
